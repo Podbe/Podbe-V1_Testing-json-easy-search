@@ -1,10 +1,10 @@
 <h2>PJES: podbe-json-easy-search</h2>
 ===============================
-<img width="220px"src="http://podbe.wikibyte.org/wp-content/uploads/2013/02/podbe1.png"></td>
+<img width="220px"src="http://podbe.wikibyte.org/wp-content/uploads/2013/02/podbe1.png">
  
 Search read the PJA (in php)
 
-
+<img width="auto" src="https://github.com/Podbe/podbe-json-easy-search/blob/master/screens.png?raw=true">
 
 <h4>About the Podbe JSON API:</h4>
 
