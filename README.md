@@ -2,17 +2,24 @@
 ===============================
 <img width="220px"src="http://podbe.wikibyte.org/wp-content/uploads/2013/02/podbe1.png">
  
-Search read the PJA (in php)
+Search read the PJA (in php) <br>
+You can find the code on the Podbe Testpage:
+* http://suche.wikibyte.org/podbe/ 
 
+
+<h3>Shortcode:<h3>
+<hr />
 <img width="auto" src="https://github.com/Podbe/podbe-json-easy-search/blob/master/screens.png?raw=true">
+<hr/>
 
-<h4>About the Podbe JSON API:</h4>
+
+<h3>About the Podbe JSON API:</h3>
 
 Find more information to PJA in the <a href="https://github.com/Podbe/Podbe-API/blob/master/test-podbe-json.php">Testing PHP</a><br>
 Send questions and comments to <a href="http://podbe.wikibyte.org/podbe/kontakt/">Michael McCouman jr.</a> under <a href="http://podbe.wikibyte.org/podbe/kontakt/">support&#64;wikibyte.org</a>.
 
 
-<h2>XML Podcastpage (meta_key: podbe-types)</h2>
+<h4>XML Podcastpage (meta_key: podbe-types)</h4>
 There are two types of variables, for example:<br>
 <b>a:31:</b><br>
 <b>s:7:</b><br>
@@ -146,7 +153,7 @@ This information is required to view the metadata standard storage in the WP dat
   &lt;/item>
 &lt;/channel>
 </pre>
-<h2>All currently meta_values as the "Podbe json API" in use</h2>
+<h3>All currently meta_values as the "Podbe json API" in use</h3>
 
 <b>wp_post('title')</b> = Podcastname
 
